@@ -1,0 +1,5 @@
+7. Stock Market Data Warehouse
+Objective: Create a data warehouse that aggregates stock market data from various sources for analysis.
+Data Sources: Financial APIs (like Alpha Vantage, Yahoo Finance).
+Transformation: Normalize stock prices, calculate moving averages, and identify trends.
+Target: Load the data into a database and provide analytics for traders.
